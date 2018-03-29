@@ -1,5 +1,4 @@
 # Yelp-Data-Analysis
-(Pig, Spark)
 • Performed analysis on the dataset from the "The Yelp Dataset Challenge 2017" by providing a summary of unique reviewers of the Yelp website and generating ranking of cities, for each business category
 • Estimated the average rank of each business category within a bounding region of certain geographical co-ordinates and summarized star rating for these ranked reviews by their number of reviews
 
