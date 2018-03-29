@@ -8,10 +8,10 @@ Specifically answers (and code) to the 5 following questions:
 
 3. What is the average rank (# stars) for businesses within 15 km of Edinburgh Castle, Scotland, by type of business (category)? Note: A business with more than one category will be listed more than once, once per category,
 
-  Center: Edinburg Castle, Scotland, UK
-  Latitude/Longitude: 55.9469753, -3.2096308
+    Center: Edinburg Castle, Scotland, UK
+    Latitude/Longitude: 55.9469753, -3.2096308
 
-  The bounding circle for this problem is a 15 km radius. A business falls in the region if it’s coordinates are within the     circle.
+    The bounding circle for this problem is a 15 km radius. A business falls in the region if it’s coordinates are within the     circle.
 
 4. Rank reviewers in Q3 by their number of reviews. For the top 10 reviewers, show their average number of stars, by category.
 
